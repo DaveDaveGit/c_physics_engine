@@ -1,0 +1,6 @@
+---
+BasedOnStyle: LLVM
+PointerAlignment: Left
+ColumnLimit: 200
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
